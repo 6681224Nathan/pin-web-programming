@@ -1,0 +1,7 @@
+[
+{"id":1,"name":"Alice","score":88,"grade":"A"},
+{"id":2,"name":"Bob","score":72,"grade":"B"},
+{"id":3,"name":"Charlie","score":55,"grade":"C"},
+{"id":4,"name":"Dana","score":91,"grade":"A"},
+{"id":5,"name":"Eve", "score":65,"grade":"B"}
+]

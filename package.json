@@ -1,0 +1,24 @@
+{
+  "name": "web_programming_workspace",
+  "version": "1.0.0",
+  "description": "a new fresh repository for web programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6681224Nathan/pin-web-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/6681224Nathan/pin-web-programming/issues"
+  },
+  "homepage": "https://github.com/6681224Nathan/pin-web-programming#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

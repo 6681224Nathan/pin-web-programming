@@ -1,0 +1,6 @@
+=== Student Report ===
+Total: 5 students
+Average score: 74.2 
+Highest: Dana (91)
+Lowest: Charlie (55)
+Grade A students: Alice, Dana, 

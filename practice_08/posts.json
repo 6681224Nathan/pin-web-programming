@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Getting started with Node.js",
+    "content": "I am learning how to read and work with JSON files."
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "title": "A small project update",
+    "content": "My first Node.js project is coming together."
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "title": "What I learned today",
+    "content": "Keeping related data connected with IDs makes it easier to organize."
+  }
+]
