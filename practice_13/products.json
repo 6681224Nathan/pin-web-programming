@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "category": "Electronics",
+    "stock": 35,
+    "createdAt": "2026-09-29T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "price": 4.5,
+    "category": "Stationery",
+    "stock": 120,
+    "createdAt": "2026-09-29T09:05:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Insulated Water Bottle",
+    "price": 18.75,
+    "category": "HomeKitchen",
+    "stock": 42,
+    "createdAt": "2026-09-29T09:10:00.000Z"
+  }
+]
+

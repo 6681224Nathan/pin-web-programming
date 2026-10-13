@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "6ac8539a82f5d1cf1d0a7d40",
+    "name": "Bob",
+    "courseid": "egci111",
+    "coursename": "computer programming",
+    "mark": 80
+  },
+  {
+    "_id": "6ac8539a82f5d1cf1d0a7d41",
+    "name": "Tom",
+    "courseid": "egci111",
+    "coursename": "computer programming",
+    "mark": 50
+  },
+  {
+    "_id": "6ac8539a82f5d1cf1d0a7d42",
+    "name": "Sue",
+    "courseid": "egci427",
+    "coursename": "web programming",
+    "mark": 90
+  },
+  {
+    "_id": "6ac8539a82f5d1cf1d0a7d43",
+    "name": "John",
+    "courseid": "egci427",
+    "coursename": "web programming",
+    "mark": 70
+  },
+  {
+    "_id": "6ac8539a82f5d1cf1d0a7d44",
+    "name": "Jame",
+    "courseid": "egci472",
+    "coursename": "web programming",
+    "mark": 60
+  }
+]
